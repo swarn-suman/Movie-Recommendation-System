@@ -1,15 +1,18 @@
-# Movie Recommender System
+# Movie Recommendation System
 
 ## Overview
-The Movie Recommender System is a web application that suggests personalized movie recommendations based on user preferences. It allows users to select movies and view recommendations tailored to their tastes.
+The Movie Recommendation System is a web-based application designed to provide users with personalized movie suggestions. By analyzing user preferences and selected movies, it generates recommendations that align with individual tastes.
 
 ## Features
-- **Interactive User Interface**: Users can easily select movies and view recommendations through an intuitive interface.
-- **Integration with TMDB API**: The system fetches movie data and posters from the TMDB (The Movie Database) API to provide rich information about each movie.
-- **Recommendation Algorithm**: Implemented a recommendation algorithm based on content-based filtering to generate personalized movie recommendations.
+- User-Friendly Interface: An intuitive and interactive design allows users to seamlessly browse and select movies while exploring tailored recommendations.
+- TMDB API Integration: Leverages The Movie Database (TMDB) API to fetch detailed movie data and high-quality posters, enhancing the user experience with comprehensive information.
+- Smart Recommendation Engine: Utilizes content-based filtering to deliver highly personalized movie suggestions based on user preferences.
 
 ## Technologies Used
-- Python programming language
-- Streamlit framework for web application development
-- TMDB API for fetching movie data and posters
+Python: Core programming language for building the application.
+Streamlit: Framework used for developing an interactive and lightweight web application.
+TMDB API: Integrated for retrieving detailed movie data and high-quality posters.
+Pandas: For efficient data manipulation and preprocessing.
+NumPy: To handle numerical computations for the recommendation algorithm.
+Scikit-learn: Used to implement the content-based filtering recommendation model.
 
