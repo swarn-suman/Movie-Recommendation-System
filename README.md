@@ -9,10 +9,10 @@ The Movie Recommendation System is a web-based application designed to provide u
 - Smart Recommendation Engine: Utilizes content-based filtering to deliver highly personalized movie suggestions based on user preferences.
 
 ## Technologies Used
-Python: Core programming language for building the application.
-Streamlit: Framework used for developing an interactive and lightweight web application.
-TMDB API: Integrated for retrieving detailed movie data and high-quality posters.
-Pandas: For efficient data manipulation and preprocessing.
-NumPy: To handle numerical computations for the recommendation algorithm.
-Scikit-learn: Used to implement the content-based filtering recommendation model.
+- Python: Core programming language for building the application.
+- Streamlit: Framework used for developing an interactive and lightweight web application.
+- TMDB API: Integrated for retrieving detailed movie data and high-quality posters.
+- Pandas: For efficient data manipulation and preprocessing.
+- NumPy: To handle numerical computations for the recommendation algorithm.
+- Scikit-learn: Used to implement the content-based filtering recommendation model.
 
